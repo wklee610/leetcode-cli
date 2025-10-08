@@ -26,3 +26,18 @@ You can install LeetCli via **PyPI**:
 
 ```bash
 pip install local-leetcode
+```
+
+After installation, the CLI command is available as: leetcli Usage Run the CLI with: 
+```bash
+leetcli
+```
+
+## Usage
+ Run the CLI with: 
+ ```bash
+ leetcli
+```
+
+
+
